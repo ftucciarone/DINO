@@ -6,3 +6,13 @@
 > > Kamm D., Deshayes J. and Madec G. (2025).
 > > A Diabatic Model of Pole-to-Pole Ocean Dynamics to Assess Subgrid Parametrizations across Horizontal Scales.
 >
+
+### Setting up the configuration 
+First, copy an existing coniguration. We try with
+
+```shell
+./makenemo -m 'local' -r GYRE_PISCES -n 'DINO' -j 0;
+```
+> [!NOTE]
+> `-j 0` creates a copy without compiling
+
