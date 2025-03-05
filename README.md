@@ -16,3 +16,16 @@ First, copy an existing coniguration. We try with
 > [!NOTE]
 > `-j 0` creates a copy without compiling
 
+
+
+
+
+
+
+#
+clone into /test
+
+add DINO OCE to demo_cfgs.txt
+
+
+
